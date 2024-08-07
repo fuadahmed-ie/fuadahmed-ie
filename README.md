@@ -1,7 +1,7 @@
 # Hello, I'm Fuad Ahmed! 👋
 
 ## About Me
-I have completed my undergraduate degree in Industrial and Production Engineering. I am highly interested in applying AI and ML in the manufacturing sector to enhance efficiency and productivity.
+I have completed my undergraduate degree in Industrial and Production Engineering. I am highly interested in applying AI and ML in the Biomedical, Manufacturing sector to enhance efficiency and productivity.
 
 ## Skills
 - **Programming:** Python, C++
